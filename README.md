@@ -1,3 +1,5 @@
+![alt text](Archiive48.png)
+
 # Welcome to Archiived48!
 Welcome to Archiived48, a repo that has WADS archived for everyone to see
 
